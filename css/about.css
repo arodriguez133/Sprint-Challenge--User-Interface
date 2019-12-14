@@ -1,0 +1,38 @@
+.under-about {
+    border: 1px dashed black;
+}
+
+.about-top {
+    padding: 0 1%;
+    width: 95%;
+    margin: 0 auto;
+}
+
+.about-block-container {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.about-items {
+    padding: 3% 3%;
+    width: 48%;
+}
+
+.about-items-content {
+    padding: 2% 0;
+    border-bottom: 1px dashed black;
+    width: 110%;
+}
+
+.about-items-content .btn {
+    line-height: 3;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 2%;
+}
+
+.about-bottom-content {
+    padding: 3% 0 5% 0;
+    width: 95%;
+    margin: 0 auto;
+}
